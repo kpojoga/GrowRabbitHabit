@@ -1819,14 +1819,14 @@ MonoBehaviour:
   m_text: Enter text...
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 2ec50ab40634543e09b47d272b459e05, type: 2}
-  m_sharedMaterial: {fileID: -4608574620574433395, guid: 2ce01cdfff23d44df896473828556d69, type: 2}
+  m_sharedMaterial: {fileID: 2100000, guid: ff78fe9579be24ea3a59ab2c6113ddfd, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 3308727597
-  m_fontColor: {r: 0.17501779, g: 0.17801516, b: 0.21698111, a: 0.77254903}
+    rgba: 3312310271
+  m_fontColor: {r: 1, g: 0.84344083, b: 0.4292453, a: 0.77254903}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -1843,13 +1843,13 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 37.5
-  m_fontSizeBase: 14
+  m_fontSize: 32.9
+  m_fontSizeBase: 32.9
   m_fontWeight: 400
-  m_enableAutoSizing: 1
+  m_enableAutoSizing: 0
   m_fontSizeMin: 18
   m_fontSizeMax: 72
-  m_fontStyle: 2
+  m_fontStyle: 1
   m_HorizontalAlignment: 1
   m_VerticalAlignment: 512
   m_textAlignment: 65535
@@ -1884,7 +1884,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
-  m_hasFontAssetChanged: 1
+  m_hasFontAssetChanged: 0
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
 --- !u!222 &341284970
@@ -5787,7 +5787,7 @@ MonoBehaviour:
   m_text: "\u200B"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 2ec50ab40634543e09b47d272b459e05, type: 2}
-  m_sharedMaterial: {fileID: -4608574620574433395, guid: 2ce01cdfff23d44df896473828556d69, type: 2}
+  m_sharedMaterial: {fileID: -4513900408311382542, guid: 2ec50ab40634543e09b47d272b459e05, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -7664,7 +7664,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &1328261637
 RectTransform:
   m_ObjectHideFlags: 0
@@ -10436,7 +10436,7 @@ MonoBehaviour:
   m_text: "\u200B"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 2ec50ab40634543e09b47d272b459e05, type: 2}
-  m_sharedMaterial: {fileID: -4608574620574433395, guid: 2ce01cdfff23d44df896473828556d69, type: 2}
+  m_sharedMaterial: {fileID: -4513900408311382542, guid: 2ec50ab40634543e09b47d272b459e05, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -10460,7 +10460,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 70
+  m_fontSize: 53
   m_fontSizeBase: 14
   m_fontWeight: 400
   m_enableAutoSizing: 1
