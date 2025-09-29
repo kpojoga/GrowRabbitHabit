@@ -8,14 +8,14 @@ public class ElLevelSwing : BaseElLevel
 
     public override void Draw()
     {
-        Rigidbody2D rg2d = GetComponent<Rigidbody2D>();
-        if (rg2d)
-        {
-            rg2d.angularDamping = AngularDrag;
-
-            rg2d.centerOfMass = Vector2.zero;
-        }
-
-        base.Draw();
+        // Rigidbody2D rg2d = GetComponent<Rigidbody2D>();
+        // if (rg2d)
+        // {
+        //     rg2d.angularDamping = AngularDrag;
+        //
+        //     rg2d.centerOfMass = Vector2.zero;
+        // }
+        //
+        // base.Draw();
     }
 }
